@@ -1,0 +1,1 @@
+{"pJName":"Philip","pJClass":"Sorcerer","lvl":15,"hp":133,"str":0,"dex":12,"con":20,"inte":11,"wis":14,"cha":18}

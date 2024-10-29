@@ -1,0 +1,4 @@
+ID	Name	Class	Level	HP	STR	CON	MAG	RES	DEX	ACC	AVO	LCK
+"01":{"Name": "Shen", "Class": "Berserker", "Level": 1, "HP": 12, "STR":14, "CON":16, "MAG":8, "RES": 12, "DEX":12,"ACC":2, "AVO":11, "LCK":1},
+"02":{"Name": "Breni", "Class": "Assassin", "Level": 1, "HP": 8, "STR":8, "CON":12, "MAG":12, "RES": 12, "DEX":16,"ACC":2, "AVO":13, "LCK":2},
+"03":{"Name": "Kenji", "Class": "Shadow Poet", "Level": 1, "HP": 8, "STR":8, "CON":12, "MAG":16, "RES": 14, "DEX":10,"ACC":2, "AVO":10, "LCK":1}
